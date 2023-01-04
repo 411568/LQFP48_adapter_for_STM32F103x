@@ -2,6 +2,7 @@
 
 This board was created as a test board for STM32F103x microcontrollers. It allows us to use STM32 uC on breadboards etc. during testing. 
 
+
 ## PCB design
 
 ![PCBdesign](/adapter_LQFP48/pcb_view.png)
@@ -13,5 +14,7 @@ This board was created as a test board for STM32F103x microcontrollers. It allow
 ## Author
 
 Krzysztof Sikora
+
 KNE, AGH
+
 Poland, 20223
